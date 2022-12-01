@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ClGHu1QuqgPff3zXL3RX1Y5X4hmtb65NY6fY05HqRWY3Z+XhESQ2rtZN+yUsF+cKhcv1qQbcv68HXWdG/Z00nw==",
+  "dgSpecHash": "/cXUMc/jludNZ/52PjUGRFm4qwxRNc9dqaSW8edxnPsY9o5PtNtCRvST5kS5Oe4ph1jcDT1n2WIL2S7nJZ7E8A==",
   "success": true,
-  "projectFilePath": "D:\\учеба\\ТПО\\lab9\\WebDriverTests\\WebDriverTests\\WebDriverTests.csproj",
+  "projectFilePath": "D:\\учеба\\ТПО\\lab 1\\lab9\\WebDriverTests\\WebDriverTests\\WebDriverTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.dotnet.internalabstractions\\1.0.0\\microsoft.dotnet.internalabstractions.1.0.0.nupkg.sha512",

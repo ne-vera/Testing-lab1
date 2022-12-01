@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\учеба\\ТПО\\lab9\\WebDriverTests\\WebDriverTests\\WebDriverTests.csproj": {}
+    "D:\\учеба\\ТПО\\lab 1\\lab9\\WebDriverTests\\WebDriverTests\\WebDriverTests.csproj": {}
   },
   "projects": {
-    "D:\\учеба\\ТПО\\lab9\\WebDriverTests\\WebDriverTests\\WebDriverTests.csproj": {
+    "D:\\учеба\\ТПО\\lab 1\\lab9\\WebDriverTests\\WebDriverTests\\WebDriverTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\учеба\\ТПО\\lab9\\WebDriverTests\\WebDriverTests\\WebDriverTests.csproj",
+        "projectUniqueName": "D:\\учеба\\ТПО\\lab 1\\lab9\\WebDriverTests\\WebDriverTests\\WebDriverTests.csproj",
         "projectName": "WebDriverTests",
-        "projectPath": "D:\\учеба\\ТПО\\lab9\\WebDriverTests\\WebDriverTests\\WebDriverTests.csproj",
+        "projectPath": "D:\\учеба\\ТПО\\lab 1\\lab9\\WebDriverTests\\WebDriverTests\\WebDriverTests.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "D:\\учеба\\ТПО\\lab9\\WebDriverTests\\WebDriverTests\\obj\\",
+        "outputPath": "D:\\учеба\\ТПО\\lab 1\\lab9\\WebDriverTests\\WebDriverTests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
